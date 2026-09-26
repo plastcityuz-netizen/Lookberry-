@@ -1,0 +1,7 @@
+{
+  "deliveryFee": 15000,
+  "city": "Toshkent",
+  "deliveryNote": "Toshkent bo'ylab premium qadoqlash bilan yetkazib berish.",
+  "orderStartHour": "10:00",
+  "orderEndHour": "22:00"
+}
